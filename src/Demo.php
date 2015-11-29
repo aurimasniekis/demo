@@ -12,6 +12,6 @@ class Demo
 {
     public function sum($a, $b)
     {
-        return $a + $b;
+        return $a + $b; // Cool
     }
 }
